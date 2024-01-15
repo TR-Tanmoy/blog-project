@@ -1,0 +1,14 @@
+Blog Project
+Day-1. starting templent
+         a) Basic structure of HTML
+ 	 b) link CSS
+  	 c) add reset & common code
+  	 d) Add font awesome cdn
+  	 e) Get the assets Image
+
+Day-2. Heading Design
+         a) Logo or icon added
+ 	 b) Navber created
+  	 c) logo and nav design
+  	 d) Responsive media added
+  	 e) 600px display designd
